@@ -1,0 +1,641 @@
+# Aspose.3D Wavefront OBJ Exporter
+# Copyright 2004-2024 Aspose Pty Ltd.
+# File created: 11/13/2024 19:11:53
+
+newmtl s.001
+	illum 2
+	Kd 0.26 0.26 0.26
+	Ke 0 0 0
+	Pr 0.9
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd s.001_baseColor.png
+	map_Pr s.001_metallicRoughness.png
+	map_Pm s.001_metallicRoughness.png
+	norm s.001_normal.png
+newmtl Material.003
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Material.001_baseColor.png
+	norm Material.001_normal.png
+newmtl Material.004
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Material.001_baseColor.png
+	norm Material.001_normal.png
+newmtl Material.003
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Material.001_baseColor.png
+	norm Material.001_normal.png
+newmtl Material.003
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Material.001_baseColor.png
+	norm Material.001_normal.png
+newmtl Material.003
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Material.001_baseColor.png
+	norm Material.001_normal.png
+newmtl Material.003
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Material.001_baseColor.png
+	norm Material.001_normal.png
+newmtl Material.003
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Material.001_baseColor.png
+	norm Material.001_normal.png
+newmtl Material.004
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Material.001_baseColor.png
+	norm Material.001_normal.png
+newmtl Material.008
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Material.001_baseColor.png
+	norm Material.001_normal.png
+newmtl Material.003
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Material.001_baseColor.png
+	norm Material.001_normal.png
+newmtl Material.004
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Material.001_baseColor.png
+	norm Material.001_normal.png
+newmtl Material.008
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Material.001_baseColor.png
+	norm Material.001_normal.png
+newmtl Material.003
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Material.001_baseColor.png
+	norm Material.001_normal.png
+newmtl Material.004
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Material.001_baseColor.png
+	norm Material.001_normal.png
+newmtl Material.008
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Material.001_baseColor.png
+	norm Material.001_normal.png
+newmtl Material.003
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Material.001_baseColor.png
+	norm Material.001_normal.png
+newmtl Material.004
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Material.001_baseColor.png
+	norm Material.001_normal.png
+newmtl Material.008
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Material.001_baseColor.png
+	norm Material.001_normal.png
+newmtl Material.003
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Material.001_baseColor.png
+	norm Material.001_normal.png
+newmtl Material.004
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Material.001_baseColor.png
+	norm Material.001_normal.png
+newmtl Material.008
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Material.001_baseColor.png
+	norm Material.001_normal.png
+newmtl Material.003
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Material.001_baseColor.png
+	norm Material.001_normal.png
+newmtl Material.004
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Material.001_baseColor.png
+	norm Material.001_normal.png
+newmtl Material.008
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Material.001_baseColor.png
+	norm Material.001_normal.png
+newmtl Material.003
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Material.001_baseColor.png
+	norm Material.001_normal.png
+newmtl Material.004
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Material.001_baseColor.png
+	norm Material.001_normal.png
+newmtl Material.008
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Material.001_baseColor.png
+	norm Material.001_normal.png
+newmtl Material.003
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Material.001_baseColor.png
+	norm Material.001_normal.png
+newmtl Material.004
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Material.001_baseColor.png
+	norm Material.001_normal.png
+newmtl Material.008
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Material.001_baseColor.png
+	norm Material.001_normal.png
+newmtl material_11
+	illum 2
+	Kd 0.04 0.04 0.04
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+newmtl material_11
+	illum 2
+	Kd 0.04 0.04 0.04
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+newmtl material_11
+	illum 2
+	Kd 0.04 0.04 0.04
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+newmtl material_11
+	illum 2
+	Kd 0.04 0.04 0.04
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+newmtl material_11
+	illum 2
+	Kd 0.04 0.04 0.04
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+newmtl material_11
+	illum 2
+	Kd 0.04 0.04 0.04
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+newmtl Material.001
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Material.001_baseColor.png
+	norm Material.001_normal.png
+newmtl Material.002
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+newmtl Material.004_B_1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Material.001_baseColor.png
+	norm Material.001_normal.png
+newmtl Material.008
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Material.001_baseColor.png
+	norm Material.001_normal.png
+newmtl Material.009
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.9
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Material.001_baseColor.png
+	norm Material.001_normal.png
+newmtl Material.010
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Material.001_baseColor.png
+	norm Material.001_normal.png
+newmtl Material.011
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Material.001_baseColor.png
+	norm Material.001_normal.png
+newmtl Material.014
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Material.001_baseColor.png
+	norm Material.001_normal.png
+newmtl Material.013
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Material.013_baseColor.png
+	norm Material.013_normal.png
+newmtl Material.005
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Material.005_baseColor.png
+newmtl material
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd material_baseColor.png
+	norm material_normal.png
+newmtl material
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd material_baseColor.png
+	norm material_normal.png
+newmtl material
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd material_baseColor.png
+	norm material_normal.png
+newmtl material
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd material_baseColor.png
+	norm material_normal.png
+newmtl material
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd material_baseColor.png
+	norm material_normal.png
+newmtl material
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd material_baseColor.png
+	norm material_normal.png
+newmtl material
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd material_baseColor.png
+	norm material_normal.png
+newmtl material
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd material_baseColor.png
+	norm material_normal.png
+newmtl material
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd material_baseColor.png
+	norm material_normal.png
+newmtl material
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd material_baseColor.png
+	norm material_normal.png
+newmtl material
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd material_baseColor.png
+	norm material_normal.png
+newmtl material
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd material_baseColor.png
+	norm material_normal.png
+newmtl material
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd material_baseColor.png
+	norm material_normal.png
+newmtl material
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd material_baseColor.png
+	norm material_normal.png
+newmtl material
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd material_baseColor.png
+	norm material_normal.png
+newmtl material
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd material_baseColor.png
+	norm material_normal.png
+newmtl material
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd material_baseColor.png
+	norm material_normal.png
+newmtl material
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.4
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd material_baseColor.png
+	norm material_normal.png

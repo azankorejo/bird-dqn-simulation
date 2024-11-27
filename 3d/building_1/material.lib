@@ -1,0 +1,12259 @@
+# Aspose.3D Wavefront OBJ Exporter
+# Copyright 2004-2024 Aspose Pty Ltd.
+# File created: 11/13/2024 19:13:36
+
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.46
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+	map_Ke Paramount_baseColor.png
+newmtl Paramount1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.46
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+	map_Ke Paramount_baseColor.png
+newmtl Paramount1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.46
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+	map_Ke Paramount_baseColor.png
+newmtl Paramount1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.46
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+	map_Ke Paramount_baseColor.png
+newmtl Paramount1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.46
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+	map_Ke Paramount_baseColor.png
+newmtl Paramount1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.46
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+	map_Ke Paramount_baseColor.png
+newmtl Paramount1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.46
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+	map_Ke Paramount_baseColor.png
+newmtl Paramount1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.46
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+	map_Ke Paramount_baseColor.png
+newmtl Paramount1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.46
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+	map_Ke Paramount_baseColor.png
+newmtl Paramount1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.46
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+	map_Ke Paramount_baseColor.png
+newmtl Paramount1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.46
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+	map_Ke Paramount_baseColor.png
+newmtl Paramount1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.46
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+	map_Ke Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.26
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+	map_Ke FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.26
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+	map_Ke FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.26
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+	map_Ke FillerBuildings1_baseColor.png
+newmtl FillerBuildings1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.26
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+	map_Ke FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.26
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+	map_Ke FillerBuildings1_baseColor.png
+newmtl FillerBuildings1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.26
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+	map_Ke FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.26
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+	map_Ke FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.26
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+	map_Ke FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.26
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+	map_Ke FillerBuildings1_baseColor.png
+newmtl FillerBuildings1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.26
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+	map_Ke FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.26
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+	map_Ke FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.26
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+	map_Ke FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.26
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+	map_Ke FillerBuildings1_baseColor.png
+newmtl FillerBuildings1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.26
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+	map_Ke FillerBuildings1_baseColor.png
+newmtl FillerBuildings1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.26
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+	map_Ke FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.26
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+	map_Ke FillerBuildings1_baseColor.png
+newmtl FillerBuildings1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.26
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+	map_Ke FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.26
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+	map_Ke FillerBuildings1_baseColor.png
+newmtl FillerBuildings1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.26
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+	map_Ke FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.26
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+	map_Ke FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.26
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+	map_Ke FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.26
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+	map_Ke FillerBuildings1_baseColor.png
+newmtl FillerBuildings1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.26
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+	map_Ke FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.26
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+	map_Ke FillerBuildings1_baseColor.png
+newmtl FillerBuildings1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.26
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+	map_Ke FillerBuildings1_baseColor.png
+newmtl FillerBuildings1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.26
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+	map_Ke FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.26
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+	map_Ke FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 1
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+	map_Ke CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl RedGLOW
+	illum 2
+	Kd 1 0 0
+	Ke 1 0.010743415 0.010743415
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl RedGLOW
+	illum 2
+	Kd 1 0 0
+	Ke 1 0.010743415 0.010743415
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 1
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+	map_Ke CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl GreenGlow
+	illum 2
+	Kd 0.002739801 1 0
+	Ke 0.032547385 1 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl GreenGlow
+	illum 2
+	Kd 0.002739801 1 0
+	Ke 0.032547385 1 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 1
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+	map_Ke CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl RedGLOW
+	illum 2
+	Kd 1 0 0
+	Ke 1 0.010743415 0.010743415
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 1
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+	map_Ke CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl GreenGlow
+	illum 2
+	Kd 0.002739801 1 0
+	Ke 0.032547385 1 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl GreenGlow
+	illum 2
+	Kd 0.002739801 1 0
+	Ke 0.032547385 1 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl WhiteGlow1
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 0.48581314
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl WhiteGlow1
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 0.48581314
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl WhiteGlow1
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 0.48581314
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl WhiteGlow1
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 0.48581314
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl elise
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.08
+	Pm 0.74
+	d 1
+	Tr 0
+	map_Kd elise_baseColor.png
+	map_Ke elise_baseColor.png
+newmtl elise
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.08
+	Pm 0.74
+	d 1
+	Tr 0
+	map_Kd elise_baseColor.png
+	map_Ke elise_baseColor.png
+newmtl elise
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.08
+	Pm 0.74
+	d 1
+	Tr 0
+	map_Kd elise_baseColor.png
+	map_Ke elise_baseColor.png
+newmtl elise
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.08
+	Pm 0.74
+	d 1
+	Tr 0
+	map_Kd elise_baseColor.png
+	map_Ke elise_baseColor.png
+newmtl Tire
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Tire_baseColor.png
+newmtl Tire
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Tire_baseColor.png
+newmtl elise
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.08
+	Pm 0.74
+	d 1
+	Tr 0
+	map_Kd elise_baseColor.png
+	map_Ke elise_baseColor.png
+newmtl elise
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.08
+	Pm 0.74
+	d 1
+	Tr 0
+	map_Kd elise_baseColor.png
+	map_Ke elise_baseColor.png
+newmtl elise
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.08
+	Pm 0.74
+	d 1
+	Tr 0
+	map_Kd elise_baseColor.png
+	map_Ke elise_baseColor.png
+newmtl elise
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.08
+	Pm 0.74
+	d 1
+	Tr 0
+	map_Kd elise_baseColor.png
+	map_Ke elise_baseColor.png
+newmtl elise
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.08
+	Pm 0.74
+	d 1
+	Tr 0
+	map_Kd elise_baseColor.png
+	map_Ke elise_baseColor.png
+newmtl elise
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.08
+	Pm 0.74
+	d 1
+	Tr 0
+	map_Kd elise_baseColor.png
+	map_Ke elise_baseColor.png
+newmtl elise
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.08
+	Pm 0.74
+	d 1
+	Tr 0
+	map_Kd elise_baseColor.png
+	map_Ke elise_baseColor.png
+newmtl elise
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.08
+	Pm 0.74
+	d 1
+	Tr 0
+	map_Kd elise_baseColor.png
+	map_Ke elise_baseColor.png
+newmtl elise
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.08
+	Pm 0.74
+	d 1
+	Tr 0
+	map_Kd elise_baseColor.png
+	map_Ke elise_baseColor.png
+newmtl elise
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.08
+	Pm 0.74
+	d 1
+	Tr 0
+	map_Kd elise_baseColor.png
+	map_Ke elise_baseColor.png
+newmtl Tire
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Tire_baseColor.png
+newmtl Tire
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Tire_baseColor.png
+newmtl Tire
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Tire_baseColor.png
+newmtl Tire
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Tire_baseColor.png
+newmtl Tire
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Tire_baseColor.png
+newmtl Tire
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Tire_baseColor.png
+newmtl elise
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.08
+	Pm 0.74
+	d 1
+	Tr 0
+	map_Kd elise_baseColor.png
+	map_Ke elise_baseColor.png
+newmtl elise
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.08
+	Pm 0.74
+	d 1
+	Tr 0
+	map_Kd elise_baseColor.png
+	map_Ke elise_baseColor.png
+newmtl elise
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.08
+	Pm 0.74
+	d 1
+	Tr 0
+	map_Kd elise_baseColor.png
+	map_Ke elise_baseColor.png
+newmtl elise
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.08
+	Pm 0.74
+	d 1
+	Tr 0
+	map_Kd elise_baseColor.png
+	map_Ke elise_baseColor.png
+newmtl elise
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.08
+	Pm 0.74
+	d 1
+	Tr 0
+	map_Kd elise_baseColor.png
+	map_Ke elise_baseColor.png
+newmtl Basketball
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.31
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Basketball_baseColor.png
+newmtl Basketball
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.31
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Basketball_baseColor.png
+newmtl Basketball
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.31
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Basketball_baseColor.png
+newmtl Clinic
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.29
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Clinic_baseColor.png
+newmtl FillerBuildings1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.26
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+	map_Ke FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl RoadsGround
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.37
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd RoadsGround_baseColor.png
+newmtl LMProjects1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0.3 0.3 0.3
+	Pr 0.06
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+	map_Ke LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl RoadsGround
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.37
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd RoadsGround_baseColor.png
+newmtl RoadsGround
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.37
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd RoadsGround_baseColor.png
+newmtl RoadsGround
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.37
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd RoadsGround_baseColor.png
+newmtl LMProjects1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0.3 0.3 0.3
+	Pr 0.06
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+	map_Ke LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl RoadsGround
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.37
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd RoadsGround_baseColor.png
+newmtl RoadsGround
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.37
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd RoadsGround_baseColor.png
+newmtl RoadsGround
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.37
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd RoadsGround_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.46
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+	map_Ke Paramount_baseColor.png
+newmtl Paramount1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.46
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+	map_Ke Paramount_baseColor.png
+newmtl Paramount1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.46
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+	map_Ke Paramount_baseColor.png
+newmtl Paramount1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.46
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+	map_Ke Paramount_baseColor.png
+newmtl Paramount1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.46
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+	map_Ke Paramount_baseColor.png
+newmtl Paramount1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.46
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+	map_Ke Paramount_baseColor.png
+newmtl Paramount1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.46
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+	map_Ke Paramount_baseColor.png
+newmtl Paramount1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.46
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+	map_Ke Paramount_baseColor.png
+newmtl Paramount1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.46
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+	map_Ke Paramount_baseColor.png
+newmtl Paramount1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.46
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+	map_Ke Paramount_baseColor.png
+newmtl Paramount1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.46
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+	map_Ke Paramount_baseColor.png
+newmtl Paramount1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0.1 0.1 0.1
+	Pr 0.46
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+	map_Ke Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl Paramount
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.57
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Paramount_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl WhiteGlow
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 1
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl WhiteGlow
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 1
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl WhiteGlow
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 1
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl WhiteGlow
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 1
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl WhiteGlow
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 1
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl WhiteGlow
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 1
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl WhiteGlow
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 1
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl WhiteGlow
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 1
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 1
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+	map_Ke CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl RedGLOW
+	illum 2
+	Kd 1 0 0
+	Ke 1 0.010743415 0.010743415
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl RedGLOW
+	illum 2
+	Kd 1 0 0
+	Ke 1 0.010743415 0.010743415
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 1
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+	map_Ke CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl GreenGlow
+	illum 2
+	Kd 0.002739801 1 0
+	Ke 0.032547385 1 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl GreenGlow
+	illum 2
+	Kd 0.002739801 1 0
+	Ke 0.032547385 1 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 1
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+	map_Ke CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl RedGLOW
+	illum 2
+	Kd 1 0 0
+	Ke 1 0.010743415 0.010743415
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 1
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+	map_Ke CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl GreenGlow
+	illum 2
+	Kd 0.002739801 1 0
+	Ke 0.032547385 1 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl GreenGlow
+	illum 2
+	Kd 0.002739801 1 0
+	Ke 0.032547385 1 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl WhiteGlow1
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 0.48581314
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl WhiteGlow1
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 0.48581314
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl WhiteGlow1
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 0.48581314
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl WhiteGlow1
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 0.48581314
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 1
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+	map_Ke CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl RedGLOW
+	illum 2
+	Kd 1 0 0
+	Ke 1 0.010743415 0.010743415
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl RedGLOW
+	illum 2
+	Kd 1 0 0
+	Ke 1 0.010743415 0.010743415
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 1
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+	map_Ke CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl GreenGlow
+	illum 2
+	Kd 0.002739801 1 0
+	Ke 0.032547385 1 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl GreenGlow
+	illum 2
+	Kd 0.002739801 1 0
+	Ke 0.032547385 1 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 1
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+	map_Ke CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl RedGLOW
+	illum 2
+	Kd 1 0 0
+	Ke 1 0.010743415 0.010743415
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 1
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+	map_Ke CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl GreenGlow
+	illum 2
+	Kd 0.002739801 1 0
+	Ke 0.032547385 1 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl GreenGlow
+	illum 2
+	Kd 0.002739801 1 0
+	Ke 0.032547385 1 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl WhiteGlow1
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 0.48581314
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl WhiteGlow1
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 0.48581314
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl WhiteGlow1
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 0.48581314
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl WhiteGlow1
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 0.48581314
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 1
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+	map_Ke CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl RedGLOW
+	illum 2
+	Kd 1 0 0
+	Ke 1 0.010743415 0.010743415
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl RedGLOW
+	illum 2
+	Kd 1 0 0
+	Ke 1 0.010743415 0.010743415
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 1
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+	map_Ke CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl GreenGlow
+	illum 2
+	Kd 0.002739801 1 0
+	Ke 0.032547385 1 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl GreenGlow
+	illum 2
+	Kd 0.002739801 1 0
+	Ke 0.032547385 1 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 1
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+	map_Ke CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl RedGLOW
+	illum 2
+	Kd 1 0 0
+	Ke 1 0.010743415 0.010743415
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 1
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+	map_Ke CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl GreenGlow
+	illum 2
+	Kd 0.002739801 1 0
+	Ke 0.032547385 1 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl GreenGlow
+	illum 2
+	Kd 0.002739801 1 0
+	Ke 0.032547385 1 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl WhiteGlow1
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 0.48581314
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl WhiteGlow1
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 0.48581314
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl WhiteGlow1
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 0.48581314
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl WhiteGlow1
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 0.48581314
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 1
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+	map_Ke CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl RedGLOW
+	illum 2
+	Kd 1 0 0
+	Ke 1 0.010743415 0.010743415
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl RedGLOW
+	illum 2
+	Kd 1 0 0
+	Ke 1 0.010743415 0.010743415
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 1
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+	map_Ke CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl RedGLOW
+	illum 2
+	Kd 1 0 0
+	Ke 1 0.010743415 0.010743415
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 1
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+	map_Ke CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl GreenGlow
+	illum 2
+	Kd 0.002739801 1 0
+	Ke 0.032547385 1 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl GreenGlow
+	illum 2
+	Kd 0.002739801 1 0
+	Ke 0.032547385 1 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl WhiteGlow1
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 0.48581314
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl WhiteGlow1
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 0.48581314
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl WhiteGlow1
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 0.48581314
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 1
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+	map_Ke CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl GreenGlow
+	illum 2
+	Kd 0.002739801 1 0
+	Ke 0.032547385 1 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl GreenGlow
+	illum 2
+	Kd 0.002739801 1 0
+	Ke 0.032547385 1 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 1
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+	map_Ke CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl RedGLOW
+	illum 2
+	Kd 1 0 0
+	Ke 1 0.010743415 0.010743415
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 1
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+	map_Ke CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl GreenGlow
+	illum 2
+	Kd 0.002739801 1 0
+	Ke 0.032547385 1 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl GreenGlow
+	illum 2
+	Kd 0.002739801 1 0
+	Ke 0.032547385 1 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl WhiteGlow1
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 0.48581314
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl WhiteGlow1
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 0.48581314
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl WhiteGlow1
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 0.48581314
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 1
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+	map_Ke CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl RedGLOW
+	illum 2
+	Kd 1 0 0
+	Ke 1 0.010743415 0.010743415
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl RedGLOW
+	illum 2
+	Kd 1 0 0
+	Ke 1 0.010743415 0.010743415
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 1
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+	map_Ke CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl GreenGlow
+	illum 2
+	Kd 0.002739801 1 0
+	Ke 0.032547385 1 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl GreenGlow
+	illum 2
+	Kd 0.002739801 1 0
+	Ke 0.032547385 1 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 1
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+	map_Ke CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl RedGLOW
+	illum 2
+	Kd 1 0 0
+	Ke 1 0.010743415 0.010743415
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl CityProps
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd CityProps_baseColor.png
+newmtl WhiteGlow1
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 0.48581314
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl WhiteGlow1
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 0.48581314
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl WhiteGlow1
+	illum 2
+	Kd 1 1 1
+	Ke 1 1 0.48581314
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+newmtl Laundrymat
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.44
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Laundrymat_baseColor.png
+newmtl Laundrymat
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.44
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Laundrymat_baseColor.png
+newmtl Laundrymat
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.44
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Laundrymat_baseColor.png
+newmtl Laundrymat
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.44
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Laundrymat_baseColor.png
+newmtl Laundrymat
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.44
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Laundrymat_baseColor.png
+newmtl Laundrymat
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.44
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Laundrymat_baseColor.png
+newmtl Laundrymat
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.44
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Laundrymat_baseColor.png
+newmtl Laundrymat
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.44
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Laundrymat_baseColor.png
+newmtl Laundrymat
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.44
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Laundrymat_baseColor.png
+newmtl Laundrymat
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.44
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Laundrymat_baseColor.png
+newmtl Laundrymat
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.44
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Laundrymat_baseColor.png
+newmtl Laundrymat
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.44
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Laundrymat_baseColor.png
+newmtl Laundrymat
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.44
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Laundrymat_baseColor.png
+newmtl Laundrymat
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.44
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Laundrymat_baseColor.png
+newmtl Laundrymat
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.44
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Laundrymat_baseColor.png
+newmtl Laundrymat
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.44
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Laundrymat_baseColor.png
+newmtl Laundrymat
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.44
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Laundrymat_baseColor.png
+newmtl Laundrymat
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.44
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Laundrymat_baseColor.png
+newmtl Laundrymat
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.44
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Laundrymat_baseColor.png
+newmtl Laundrymat
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.44
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Laundrymat_baseColor.png
+newmtl Laundrymat
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.44
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Laundrymat_baseColor.png
+newmtl Laundrymat
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.44
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Laundrymat_baseColor.png
+newmtl Laundrymat
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.44
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Laundrymat_baseColor.png
+newmtl Laundrymat
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.44
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Laundrymat_baseColor.png
+newmtl Laundrymat
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.44
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Laundrymat_baseColor.png
+newmtl Laundrymat
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.44
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Laundrymat_baseColor.png
+newmtl Laundrymat
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.44
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Laundrymat_baseColor.png
+newmtl Laundrymat
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.44
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Laundrymat_baseColor.png
+newmtl Laundrymat
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.44
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Laundrymat_baseColor.png
+newmtl Laundrymat
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.44
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Laundrymat_baseColor.png
+newmtl Laundrymat
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.44
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Laundrymat_baseColor.png
+newmtl Laundrymat
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.44
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Laundrymat_baseColor.png
+newmtl RoadsGround
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.37
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd RoadsGround_baseColor.png
+newmtl RoadsGround
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.37
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd RoadsGround_baseColor.png
+newmtl RoadsGround
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.37
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd RoadsGround_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0.6 0.6 0.6
+	Pr 0.07
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+	map_Ke FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl RoadsGround
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.37
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd RoadsGround_baseColor.png
+newmtl RoadsGround
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.37
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd RoadsGround_baseColor.png
+newmtl RoadsGround
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.37
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd RoadsGround_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0.6 0.6 0.6
+	Pr 0.07
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+	map_Ke FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl FishFactory
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.39
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FishFactory_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+newmtl Pawnshop1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0.7 0.7 0.7
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+	map_Ke Pawnshop_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+newmtl Pawnshop1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0.7 0.7 0.7
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+	map_Ke Pawnshop_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+newmtl RoadsGround
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.37
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd RoadsGround_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+newmtl LMProjects1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0.3 0.3 0.3
+	Pr 0.06
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+	map_Ke LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl LMProjects
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd LMProjects1GLOW_baseColor.png
+newmtl RoadsGround
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.37
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd RoadsGround_baseColor.png
+newmtl RoadsGround
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.37
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd RoadsGround_baseColor.png
+newmtl RoadsGround
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.37
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd RoadsGround_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+newmtl Pawnshop1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0.7 0.7 0.7
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+	map_Ke Pawnshop_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+newmtl Pawnshop1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0.7 0.7 0.7
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+	map_Ke Pawnshop_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+newmtl RoadsGround
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.37
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd RoadsGround_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.26
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+	map_Ke FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.26
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+	map_Ke FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.26
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+	map_Ke FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.26
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+	map_Ke FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.26
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+	map_Ke FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.26
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+	map_Ke FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.26
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+	map_Ke FillerBuildings1_baseColor.png
+newmtl FillerBuildings1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.26
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+	map_Ke FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.26
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+	map_Ke FillerBuildings1_baseColor.png
+newmtl FillerBuildings1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.26
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+	map_Ke FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.26
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+	map_Ke FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl FillerBuildings1
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.38
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd FillerBuildings1_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+newmtl Pawnshop1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0.7 0.7 0.7
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+	map_Ke Pawnshop_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+newmtl Pawnshop1GLOW
+	illum 2
+	Kd 1 1 1
+	Ke 0.7 0.7 0.7
+	Pr 0.2
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+	map_Ke Pawnshop_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+newmtl RoadsGround
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.37
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd RoadsGround_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png
+newmtl Pawnshop
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.34
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Pawnshop_baseColor.png

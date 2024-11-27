@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<robot name="hummingbird">
+
+  <!-- Body Link -->
+  <link name="body">
+    <!-- Visual representation of the model -->
+    <visual>
+      <geometry>
+        <!-- Path to the .obj model file -->
+        <mesh filename="tree2.obj" scale="1 1 1"/>
+      </geometry>
+      <material name="white"/>
+    </visual>
+
+    <!-- Collision geometry (if you want collision detection) -->
+    <collision>
+      <geometry>
+        <!-- Path to the .obj model for collision -->
+        <mesh filename="tree2.obj" scale="1 1 1"/>
+      </geometry>
+    </collision>
+  </link>
+
+</robot>
